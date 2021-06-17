@@ -1,8 +1,8 @@
 # VIO-SLAM Module
 
-The state-of-the-art SLAM methods are somewhat difficult to grasp due to their complexity and unexpected tight couplings / leaky abstractions when trying to find out what the main parts are. How they should play with visual-inertial tracking - what we already have - is also unclear. This repository contains a SLAM module implementation that tries to coherently include relevant aspects of the SLAM pipeline.
+The state-of-the-art SLAM methods are somewhat difficult to grasp due to their complexity and unexpected tight couplings / leaky abstractions when trying to find out what the main parts are. This repository contains a SLAM module implementation that tries to coherently include relevant aspects of the SLAM pipeline.
 
-See the document [design-document.pdf](design-document.pdf) for details.
+See the [design-document.pdf](design-document.pdf) for details.
 
 ## Contributors
 
